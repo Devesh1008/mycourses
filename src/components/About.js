@@ -29,7 +29,7 @@ export default function About(props) {
   return (
     <>
       <div className="container my-3 py-4" style={myStyle}>
-        <h1 className='mb-3'>About</h1>
+        <h1 className='mb-3'>About Us</h1>
         <div className="accordion" id="accordionExample" >
           <div className="card">
             <div className="card-header" id="headingOne" style={myStyle}>
